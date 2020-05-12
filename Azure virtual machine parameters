@@ -9,7 +9,7 @@
       "value": "azureuser"
     },
     "dnsNameForPublicIP": {
-      "value": "demo1"
+      "value": "demoskpnb"
     },
     "vnetName": {
       "value": "VNet1"
